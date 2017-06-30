@@ -1,3 +1,4 @@
-# python-language
+# Python Reference
 
-hello
+* [Strings](https://github.com/antonbarua/python-language/blob/master/Strings.md)
+* [Lists]()
