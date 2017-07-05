@@ -43,6 +43,7 @@ letters[1:3] = ['B','C']
 print letters
 #output
 ['a','B','C','d','e']
+
 letters[:]=[]
 print letters
 #output
