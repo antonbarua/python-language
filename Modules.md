@@ -64,3 +64,7 @@ from packageA.packageB import moduleB
 
 moduleB.func()
 ```
+
+``from a.b import c ``<= c can be a package/module/function/variable/class
+
+``import a.b.c``<= c has to be a package or a module, not a function/variable/class
